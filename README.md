@@ -6,7 +6,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas4lisson&layout=compact&langs_count=6&theme=tokyonight"/>
    </a>
 </div>
-    
+<br>
 <div style="display: inline_block">
 <a href="https://github.com/Jonas4lisson"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,php,react,git,bootstrap,figma,mysql,postman"/> </a>
 </div>
@@ -14,7 +14,9 @@
  
 <div> 
   <a href="https://instagram.com/Jonas_4lisson_36" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaços para separar os botões -->
  <a href="https://discord.gg/jonas_4lisson_36" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaços para separar os botões -->
  <a href = "jonasalissonnascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
