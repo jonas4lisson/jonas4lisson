@@ -1,6 +1,7 @@
 ## Bem-vindo(a) ao perfil de Jonas 4lisson 😁
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F839288080552234101%2F&psig=AOvVaw3o0HoqV2LP2wchAZ1QV3Ca&ust=1729465104793000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiYxN_Fm4kDFQAAAAAdAAAAABAh" width=100%>
+<img src="![gifMatrix](https://github.com/user-attachments/assets/af12d055-6d99-47e0-ba75-cbc640dd0fe0)
+" width=100%>
 </div>
  <div>
    <a href="https://github.com/Jonas4lisson">
