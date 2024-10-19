@@ -13,9 +13,9 @@
  <br>
  
 <div> 
-  <a href="https://instagram.com/Jonas_4lisson_36" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Button 1" width="100"></a>
+  <a href="https://instagram.com/Jonas_4lisson_36" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Button 1" width="200"></a>
    &nbsp;&nbsp;&nbsp; <!-- Espaços para separar os botões -->
- <a href="https://discord.gg/jonas_4lisson_36" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Button 2" width="100"></a> 
+ <a href="https://discord.gg/jonas_4lisson_36" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Button 2" width="150"></a> 
    &nbsp;&nbsp;&nbsp; <!-- Espaços para separar os botões -->
  <a href = "jonasalissonnascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Button 3" width="100"></a>
 </div>
