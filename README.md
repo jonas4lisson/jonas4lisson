@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil de Jonas 4lisson 😁
-
+<div align="center">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F839288080552234101%2F&psig=AOvVaw3o0HoqV2LP2wchAZ1QV3Ca&ust=1729465104793000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiYxN_Fm4kDFQAAAAAdAAAAABAh" width=100%>
+</div>
  <div>
    <a href="https://github.com/Jonas4lisson">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonas4lisson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -8,9 +10,6 @@
 </div>
 <div style="display: inline_block">
  <br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,php,react,git,bootstrap,figma,mysql,postman" />
 </div>
  <br>
