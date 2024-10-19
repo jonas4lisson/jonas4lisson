@@ -20,7 +20,4 @@
 </div>
 <br>
 
-
- <a href="https://github.com/Jonas4lisson">
- ![gifMatrix](https://github.com/user-attachments/assets/af12d055-6d99-47e0-ba75-cbc640dd0fe0)
- </a> 
+<a> ![gifMatrix](https://github.com/user-attachments/assets/af12d055-6d99-47e0-ba75-cbc640dd0fe0) </a>
