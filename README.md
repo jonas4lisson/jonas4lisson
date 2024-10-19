@@ -1,5 +1,4 @@
 ## Bem-vindo(a) ao perfil de Jonas 4lisson 😁
-<div align="center">
 ![gifMatrix](https://github.com/user-attachments/assets/af12d055-6d99-47e0-ba75-cbc640dd0fe0)
 
 </div>
