@@ -8,8 +8,7 @@
 </div>
     
 <div style="display: inline_block">
- <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,php,react,git,bootstrap,figma,mysql,postman" />
+<a href="https://github.com/Jonas4lisson"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,php,react,git,bootstrap,figma,mysql,postman"/> </a>
 </div>
  <br>
  
