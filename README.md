@@ -11,26 +11,31 @@
   <a href="https://github.com/Jonas4lisson"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,php,react,git,bootstrap,figma,mysql,postman"/> </a>
 </div>
 <br>
- <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+<div style="
+    display: flex; 
+    gap: 15px; 
+    align-items: center; 
+    flex-wrap: wrap;
+">
   
   <!-- Gmail -->
   <a href="mailto:jonasalissonnascimento@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=50&borderRadius=20" alt="Gmail">
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/Jonas4lisson.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&height=50&borderRadius=20" alt="Instagram">
   </a>
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/profile.php?id=100094573015640" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white&height=50&borderRadius=20" alt="Facebook">
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jonas-alisson-dev-design/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=50&borderRadius=20" alt="LinkedIn">
   </a>
 
 </div>
