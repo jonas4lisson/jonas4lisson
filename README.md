@@ -10,7 +10,7 @@
 ##
 ### Contatos:
 
-<p align="center">
+<p align="left">
   <a href="mailto:jonasalissonnascimento@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50">
   </a> 
@@ -31,15 +31,19 @@
   </a>
 </p>
 
-<div align="right">
+<div align="left">
 <img src="https://views.whatilearened.today/views/github/jonas4lisson/views.svg"> <a href="https://github.com/jonas4lisson/"><img src="https://img.shields.io/github/followers/jonas4lisson?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </div>
 
 ##
-<a href="https://github.com/Jonas4lisson"> ![gifMatrix](https://github.com/user-attachments/assets/af12d055-6d99-47e0-ba75-cbc640dd0fe0) </a>
+<p align="center">
+  <a href="https://github.com/Jonas4lisson">
+    <img src="https://github.com/user-attachments/assets/af12d055-6d99-47e0-ba75-cbc640dd0fe0" alt="gifMatrix" />
+  </a>
+</p>
 
 ##
-<div>
+<div align="center">
   <a href="https://github.com/jonas4lisson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas4lisson&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonas4lisson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
