@@ -1,21 +1,18 @@
 ## Bem-vindo(a) ao perfil de Jonas 4lisson 😁
 
- <div>
-   <a href="https://github.com/Jonas4lisson">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonas4lisson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas4lisson&layout=compact&langs_count=6&theme=tokyonight"/>
-   </a>
-</div>
-<br>
+
+### Ferramentas e Tecnologias:
+
 <div style="display: inline_block">
   <a href="https://github.com/Jonas4lisson"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,php,react,java,git,bootstrap,figma,mysql,postman"/> </a>
 </div>
-<br>
- <!-- Seção de Botões -->
+
+##
+### Contatos:
+
 <p align="center">
-  
   <a href="mailto:jonasalissonnascimento@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50">
+   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50">
   </a> 
   &nbsp;&nbsp;&nbsp;
 
@@ -32,11 +29,18 @@
   <a href="https://www.linkedin.com/in/jonas-alisson-dev-design/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50">
   </a>
-
 </p>
-<p align="right">
+
+<div align="right">
 <img src="https://views.whatilearened.today/views/github/jonas4lisson/views.svg"> <a href="https://github.com/jonas4lisson/"><img src="https://img.shields.io/github/followers/jonas4lisson?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-</p>
-<br>
+</div>
 
+##
 <a href="https://github.com/Jonas4lisson"> ![gifMatrix](https://github.com/user-attachments/assets/af12d055-6d99-47e0-ba75-cbc640dd0fe0) </a>
+
+##
+<div>
+  <a href="https://github.com/jonas4lisson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas4lisson&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonas4lisson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
