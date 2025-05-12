@@ -8,7 +8,7 @@
 </div>
 <br>
 <div style="display: inline_block">
-  <a href="https://github.com/Jonas4lisson"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,php,react,git,bootstrap,figma,mysql,postman"/> </a>
+  <a href="https://github.com/Jonas4lisson"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,php,react,java,git,bootstrap,figma,mysql,postman"/> </a>
 </div>
 <br>
  <!-- Seção de Botões -->
@@ -33,6 +33,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50">
   </a>
 
+</p>
+<p align="right">
+<img src="https://views.whatilearened.today/views/github/jonas4lisson/views.svg"> <a href="https://github.com/jonas4lisson/"><img src="https://img.shields.io/github/followers/jonas4lisson?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
 <br>
 
